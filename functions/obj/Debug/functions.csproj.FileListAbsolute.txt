@@ -1,0 +1,8 @@
+E:\проекты\functions\functions\bin\Debug\functions.exe.config
+E:\проекты\functions\functions\bin\Debug\functions.exe
+E:\проекты\functions\functions\bin\Debug\functions.pdb
+E:\проекты\functions\functions\obj\Debug\functions.csproj.AssemblyReference.cache
+E:\проекты\functions\functions\obj\Debug\functions.csproj.SuggestedBindingRedirects.cache
+E:\проекты\functions\functions\obj\Debug\functions.csproj.CoreCompileInputs.cache
+E:\проекты\functions\functions\obj\Debug\functions.exe
+E:\проекты\functions\functions\obj\Debug\functions.pdb
